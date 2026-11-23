@@ -7,7 +7,7 @@ OUT = ROOT / "_site"
 BASE = "https://wooahgrade.wooahouse.com"
 SITE = "우아병원등급"
 ICON = "🏥"
-NAVER_TOKEN = ""  # 네이버 서치어드바이저 소유확인 메타 태그 값(받으면 채움)
+NAVER_TOKEN = "5391d0567f6f09c70b5fd81060abc4cc7a499bcd"  # 네이버 서치어드바이저 소유확인 메타 태그 값(받으면 채움)
 esc = html.escape
 
 NAV = [("평가항목", "/item/"), ("지역별", "/region/"), ("등급 읽는 법", "/guide/")]
